@@ -1,0 +1,22 @@
+body {
+    background-color: #FDF6F0;
+}
+
+h1 {
+    color: #753422;
+}
+
+h2 {
+    color: #753422;
+    text-decoration-line: underline;
+}
+
+th {
+    text-align: left;
+    padding: 15px;
+}
+
+td {
+    padding: 15px;
+    text-align: left;
+}
